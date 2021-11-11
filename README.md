@@ -1,6 +1,6 @@
 # CHECKERS GAME
 
-<img src="https://user-images.githubusercontent.com/64039135/141333431-69cf12e8-a40d-4163-bccc-9372ef82f043.PNG" width="800px" height="400px" />
+<img src="https://user-images.githubusercontent.com/64039135/141333431-69cf12e8-a40d-4163-bccc-9372ef82f043.PNG" width="400px" height="400px" />
 
 ## INTRODUCTION
 Checkers is a group of strategy board game is played by two opponents, on opposite sides of the game board. One player has the dark pieces; the other has the light pieces. At the start of the game, each contestant has 12 pieces arranged on the board.
@@ -43,34 +43,6 @@ For just an idea that how the minimax algorithm works there is a tree in which y
 
 <img src="https://user-images.githubusercontent.com/64039135/141335513-5205acc0-f00b-45a3-bb1c-05448df32df8.PNG" width="800px" height="400px" />
 
-
-
-
-
-
-
-If you see more items so click the link and you get
-<img src="https://user-images.githubusercontent.com/64039135/138446197-f00804e7-c7e5-434e-a774-6f197e18c828.png" width="800px" height="400px" />
-
-# About Us
-It consists of all the information about this shopping website like what it can deliver, serves, how long it's been around, and its long-term goals and mission.
-<img src="https://user-images.githubusercontent.com/64039135/138446773-77e60cf5-689c-47a6-a61b-a395821ba697.png" width="800px" height="400px" />
-
-# Contact Us
-Contact Us page helps for visitors to contact easily. This page contains one or more of the following items: name, a telephone number and remarks.
-<img src="https://user-images.githubusercontent.com/64039135/138446945-cd82545d-b0b8-4d56-acaf-6c6adc346911.png" width="800px" height="400px" />
-
-# Shop
-Shop Page consists of 4 items:
-1.	**Ladies**
-2.	**Gents**
-3.	**Children**
-4.	**Other Things**
-
-<img src="https://user-images.githubusercontent.com/64039135/138446197-f00804e7-c7e5-434e-a774-6f197e18c828.png " width="800px" height="400px" />
-
-All four items page contains cards about various dress or other things with its price.
-<img src="https://user-images.githubusercontent.com/64039135/138447314-d7e7e266-3ec7-41be-af65-ecfef74df9b7.png " width="800px" height="400px" />
 
 
 

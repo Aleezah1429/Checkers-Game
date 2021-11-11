@@ -1,6 +1,6 @@
 # CHECKERS GAME
 
-<img src="https://user-images.githubusercontent.com/64039135/141333431-69cf12e8-a40d-4163-bccc-9372ef82f043.PNG" width="400px" height="400px" />
+<img src="https://user-images.githubusercontent.com/64039135/141333431-69cf12e8-a40d-4163-bccc-9372ef82f043.PNG" width="500px" height="400px" />
 
 ## INTRODUCTION
 Checkers is a group of strategy board game is played by two opponents, on opposite sides of the game board. One player has the dark pieces; the other has the light pieces. At the start of the game, each contestant has 12 pieces arranged on the board.
@@ -32,7 +32,7 @@ An Algorithm to check which piece to move so that we get best results
 2.	best_move variable holds a reference to a Move object.
 3.	A condition to check whether the player is max_player or min_player is implemented.
 4.	In case of max_player maxEval is initialized to negative infinity (-∞) .
-5.  	Otherwise, minEval is initialized to positive infinity (-∞).
+5.  Otherwise, minEval is initialized to positive infinity (-∞).
 6. 	Now we run minimax function recursively to a certain depth to check for all the possible moves.
 7. 	Now a deep copy of the whole board is made.
 8. 	All the set of moves are applied on the board to check which set of moves would get max score.
@@ -41,7 +41,7 @@ An Algorithm to check which piece to move so that we get best results
 
 For just an idea that how the minimax algorithm works there is a tree in which you can see that on the last level we take the max of set the scores then on 3rd level we take min of set of scores and this alternation continues till we reach the root and then on the root we take max of the scores.
 
-<img src="https://user-images.githubusercontent.com/64039135/141335513-5205acc0-f00b-45a3-bb1c-05448df32df8.PNG" width="800px" height="400px" />
+<img src="https://user-images.githubusercontent.com/64039135/141335513-5205acc0-f00b-45a3-bb1c-05448df32df8.PNG" width="700px" height="400px" />
 
 
 
